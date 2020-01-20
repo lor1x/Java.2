@@ -1,6 +1,5 @@
-import java.io.Console;
-import java.util.*;
 import java.util.Scanner;
+
 import javax.swing.JOptionPane;
 
 public class javal {
@@ -12,7 +11,7 @@ public class javal {
     System.out.println("What's your name?");
     name = keyboard.nextLine();
     keyboard.close();
-    /* name = console.readLine("What's your name bitch?  "); */
+    /* name = console.readLine("What's your name?  "); */
 
     // console.printf("First name is: %s", name);12:27 PM
     JOptionPane.showMessageDialog(null, "Hello " + name);
