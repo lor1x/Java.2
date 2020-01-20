@@ -59,7 +59,6 @@ public class Ushtrime4 {
         // Ushtrimi 11;
         ushtr4.U4_8();
 
-
         keyboard.close();
         key.close();
         kb.close();
