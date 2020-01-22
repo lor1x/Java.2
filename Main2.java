@@ -1,9 +1,5 @@
 import java.io.Console;
-import java.util.*;
 import java.util.Scanner;
-import javax.swing.JOptionPane;
-import java.lang.String;
-import java.math.*;
 
 public class Main2 {
    public static void main(String[] args) {
